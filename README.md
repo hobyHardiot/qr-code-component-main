@@ -18,14 +18,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](screenshots/desktop-screen.png)
-![](screenshots/mobile-screen.png)
+![](screenshots/desktop-screen.jpg)
+![](screenshots/mobile-screen.jpg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/perfect-qr-code-component-UnakIr7hFi)
+- Live Site URL: [here](https://jolly-muffin-9d7263.netlify.app/)
 
 ## My process
 
@@ -46,6 +46,7 @@ To import a Google Font, you just need to use the @import rule in your CSS file.
 ```css
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
 ```
+Then, you can use the font in your CSS like this:
 ```css
 h5{
     font-family: 'Outfit',sans-serif;
